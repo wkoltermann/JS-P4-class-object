@@ -1,0 +1,1 @@
+# JS-P4-class-object
